@@ -1,14 +1,15 @@
 
 .program img {
-  width: 350px;
+  width: 330px;
   border-radius: 10px;
 }
 .programs {
   display: flex;
-  gap: 40px;
+  gap: 20px;
   padding-bottom: 100px;
   justify-content: space-between;
   padding-top: 0px;
+  width: 100%;
 }
 
 .program {
@@ -19,11 +20,11 @@
   display: flex;
   gap: 50px;
   align-items: center;
-  padding-bottom: 150px;
+  padding-bottom: 70px;
   justify-content: space-between;
 }
 .uni-text h3 {
-  color: blue;
+   color: #212EA0;
   padding-bottom: 10px;
 }
 .uni-text h1 {
@@ -74,7 +75,7 @@
   justify-content: center;
 }
 .about-icon img {
-  width: 70px;
+  width: 60px;
 }
 .program:hover .caption {
   opacity: 1;

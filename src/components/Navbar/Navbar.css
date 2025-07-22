@@ -20,6 +20,11 @@ nav {
   padding-left: 10%;
   padding-right: 10%;
 }
+.sidebar{
+background: #212ea0;
+transition: 0.5s ease;
+
+}
 
 
 nav ul {
